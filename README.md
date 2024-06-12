@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamartz&label=Profile%20views&color=0e75b6&style=flat" alt="prathamartz" /> </p>
-<h1 align="center">Hi 👋! <br>i'am Prathamesh</h1>
+<h1 align="center">Hi 👋, I'm Prathamesh Pulkathwar</h1>
+<h3 align="center">A passionate Game developer from India</h3>
 
-###
 
 <h1 align="center">Game Programmer</h1>
 
@@ -54,18 +54,27 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
 </div>
 
+
+
 ###
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathamartz" alt="prathamartz" /></a> </p>
+
+###
+
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamartz&show_icons=true&locale=en" alt="prathamartz" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamartz&show_icons=true&locale=en&layout=compact" alt="prathamartz" /></p>
 
 <br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrathamArtz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=PrathamArtz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrathamArtz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/PrathamArtz/PrathamArtz/output/snake.svg" alt="Snake animation" />
+
 
 ###
