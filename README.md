@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamartz&label=Profile%20views&color=0e75b6&style=flat" alt="prathamartz" /> </p>
 <h1 align="center">Hi 👋! <br>i'am Prathamesh</h1>
 
 ###
@@ -6,7 +7,17 @@
 
 ###
 
-<div align="center">
+- 🌱 I’m currently learning **Unreal Engine**
+
+- 👨‍💻 All of my projects are available at [https://sites.google.com/view/prathamesh-artz/home](https://sites.google.com/view/prathamesh-artz/home)
+
+- 📫 How to reach me **Pulkanthwarprathamesh2@gmail.com**
+
+- 📄 My Rsume [https://drive.google.com/file/d/1ojqvuY43SpDgJ--KD9k680FD_7SR8cNG/view](https://drive.google.com/file/d/1ojqvuY43SpDgJ--KD9k680FD_7SR8cNG/view)
+###
+
+<h3 align="left">Connect with me:</h3>
+<div align="left">
   <a href="www.linkedin.com/in/prathamesh-pulkanthwar" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="90" height="40" alt="linkedin logo"  />
   </a>
@@ -19,8 +30,9 @@
 </div>
 
 ###
+<h3 align="left">Languages and Tools:</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="53" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -30,6 +42,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
   <img width="53" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="53" />
+ 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+   <img width="53" />
+   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a
+   <img width="53" />
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+  <img width="53" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
 </div>
 
 ###
