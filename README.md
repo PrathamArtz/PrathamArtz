@@ -9,12 +9,15 @@
 
 - 🌱 I’m currently learning **Unreal Engine**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/prathamesh-artz/home](https://sites.google.com/view/prathamesh-artz/home)
+- 👨‍💻 All of my projects are available at Github and my Website. [https://sites.google.com/view/prathamesh-artz/home](https://sites.google.com/view/prathamesh-artz/home)
 
 - 📫 How to reach me **Pulkanthwarprathamesh2@gmail.com**
 
 - 📄 My Rsume [https://drive.google.com/file/d/1ojqvuY43SpDgJ--KD9k680FD_7SR8cNG/view](https://drive.google.com/file/d/1ojqvuY43SpDgJ--KD9k680FD_7SR8cNG/view)
-###
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/view/prathamesh-artz/home)
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -30,7 +33,8 @@
 </div>
 
 ###
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> 🛠 Skills
+  Languages and Tools:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
