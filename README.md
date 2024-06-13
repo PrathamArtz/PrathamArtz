@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Pulkanthwarprathamesh2@gmail.com**
 
-- 📄 My Rsume [https://drive.google.com/file/d/1ojqvuY43SpDgJ--KD9k680FD_7SR8cNG/view](https://drive.google.com/file/d/1ojqvuY43SpDgJ--KD9k680FD_7SR8cNG/view)
+- 📄 My Rsume [https://drive.google.com/file/d/1ojqvuY43SpDgJ--KD9k680FD_7SR8cNG/view](https://drive.google.com/file/d/1ojqvuY43SpDgJ--KD9k680FD_7SR8cNG/v)
 
 
 ## 🔗 Links
